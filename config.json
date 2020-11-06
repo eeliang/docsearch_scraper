@@ -1,0 +1,40 @@
+{
+  "index_name": "doc_index",
+  "start_urls": [
+    "https://docs.workato.com"
+  ],
+  "sitemap_urls": [
+    "https://docs.workato.com/sitemap.xml"
+  ],
+  "stop_urls": [],
+  "selectors": {
+    "lvl0": ".page h1",
+    "lvl1": ".page h2",
+    "lvl2": ".page h3"
+  },
+  "strip_chars": " ,;#",
+  "custom_settings": {
+    "attributesToRetrieve": [
+      "*"
+    ],
+    "attributesForFaceting": [
+      "lang"
+    ],
+    "synonyms": [
+      [
+        "api platform",
+        "api management"
+      ],
+      [
+        "opa",
+        "on prem",
+        "on premise"
+      ],
+      [
+        "redirect url",
+        "callback url"
+      ]
+    ]
+  },
+  "nb_hits": 5144
+}
