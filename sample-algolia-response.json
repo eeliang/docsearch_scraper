@@ -1,0 +1,73 @@
+{"results":[{"hits":[
+{
+	"anchor":"on-premise-agent-setup-wizard",
+	"content":null,
+	"hierarchy":{
+		"lvl0":"Add Agent to Group",
+		"lvl1":"On-premise agent setup wizard",
+		"lvl2":null,
+		"lvl3":null,
+		"lvl4":null,
+		"lvl5":null,
+		"lvl6":null
+	},
+	"hierarchy_radio":{
+		"lvl3":null,
+		"lvl2":null,
+		"lvl1":"On-premise agent setup wizard",
+		"lvl0":null
+	},
+	"type":"lvl1",
+	"tags":[],
+	"weight":{
+		"page_rank":0,
+		"level":90,
+		"position":4
+	},
+	"url":"https://docs.workato.com/on-prem/groups/add-agent.html#on-premise-agent-setup-wizard",
+	"url_without_variables":"https://docs.workato.com/on-prem/groups/add-agent.html#on-premise-agent-setup-wizard",
+	"hierarchy_camel":[
+		{"lvl0":"Add Agent to Group","lvl1":"On-premise agent setup wizard","lvl2":null,"lvl3":null,"lvl4":null,"lvl5":null,"lvl6":null}
+	],
+	"hierarchy_radio_camel":{
+		"lvl3":null,"lvl2":null,"lvl1":"On-premise agent setup wizard","lvl0":null
+	},
+	"content_camel":null,
+	"lang":"en-US",
+	"url_without_anchor":"https://docs.workato.com/on-prem/groups/add-agent.html",
+	"no_variables":true,
+	"objectID":"8df465a65398cf3db9bf46fb7537ef162455349d",
+	"_highlightResult":{
+		"hierarchy":{
+			"lvl0":{
+				"value":"Add Agent to Group",
+				"matchLevel":"none",
+				"matchedWords":[]
+			},
+			"lvl1":{
+				"value":"<span class=\"algolia-docsearch-suggestion--highlight\">On</span>-<span class=\"algolia-docsearch-suggestion--highlight\">premise</span> agent setup wizard",
+				"matchLevel":"full",
+				"fullyHighlighted":false,
+				"matchedWords":["on","premise"]
+			}
+		},
+		"hierarchy_camel":[{
+			"lvl0":{
+				"value":"Add Agent to Group",
+				"matchLevel":"none",
+				"matchedWords":[]
+			},
+			"lvl1":{
+				"value":"<span class=\"algolia-docsearch-suggestion--highlight\">On</span>-<span class=\"algolia-docsearch-suggestion--highlight\">premise</span> agent setup wizard",
+				"matchLevel":"full",
+				"fullyHighlighted":false,
+				"matchedWords":["on","premise"]
+			}
+		}]
+	}
+},
+{"anchor":"connecting-to-an-on-premise-microsoft-dynamics-crm-instance","content":null,"hierarchy":{"lvl0":"Microsoft Dynamics CRM","lvl1":"Connecting to an on-premise Microsoft Dynamics CRM instance","lvl2":null,"lvl3":null,"lvl4":null,"lvl5":null,"lvl6":null},"hierarchy_radio":{"lvl3":null,"lvl2":null,"lvl1":"Connecting to an on-premise Microsoft Dynamics CRM instance","lvl0":null},"type":"lvl1","tags":[],"weight":{"page_rank":0,"level":90,"position":15},"url":"https://docs.workato.com/connectors/dynamics-crm.html#connecting-to-an-on-premise-microsoft-dynamics-crm-instance","url_without_variables":"https://docs.workato.com/connectors/dynamics-crm.html#connecting-to-an-on-premise-microsoft-dynamics-crm-instance","hierarchy_camel":[{"lvl0":"Microsoft Dynamics CRM","lvl1":"Connecting to an on-premise Microsoft Dynamics CRM instance","lvl2":null,"lvl3":null,"lvl4":null,"lvl5":null,"lvl6":null}],"hierarchy_radio_camel":{"lvl3":null,"lvl2":null,"lvl1":"Connecting to an on-premise Microsoft Dynamics CRM instance","lvl0":null},"content_camel":null,"lang":"en-US","url_without_anchor":"https://docs.workato.com/connectors/dynamics-crm.html","no_variables":true,"objectID":"e9f715fdabaea1aaf2ac16f73c12ca5cb17b1ad1","_highlightResult":{"hierarchy":{"lvl0":{"value":"Microsoft Dynamics CRM","matchLevel":"none","matchedWords":[]},"lvl1":{"value":"Connecting to an <span class=\"algolia-docsearch-suggestion--highlight\">on</span>-<span class=\"algolia-docsearch-suggestion--highlight\">premise</span> Microsoft Dynamics CRM instance","matchLevel":"full","fullyHighlighted":false,"matchedWords":["on","premise"]}},"hierarchy_camel":[{"lvl0":{"value":"Microsoft Dynamics CRM","matchLevel":"none","matchedWords":[]},"lvl1":{"value":"Connecting to an <span class=\"algolia-docsearch-suggestion--highlight\">on</span>-<span class=\"algolia-docsearch-suggestion--highlight\">premise</span> Microsoft Dynamics CRM instance","matchLevel":"full","fullyHighlighted":false,"matchedWords":["on","premise"]}}]}},
+{"anchor":"how-to-connect-to-sap-on-premise-on-workato","content":null,"hierarchy":{"lvl0":"SAP On-premise","lvl1":"How to connect to SAP On-premise on Workato","lvl2":null,"lvl3":null,"lvl4":null,"lvl5":null,"lvl6":null},"hierarchy_radio":{"lvl3":null,"lvl2":null,"lvl1":"How to connect to SAP On-premise on Workato","lvl0":null},"type":"lvl1","tags":[],"weight":{"page_rank":0,"level":90,"position":17},"url":"https://docs.workato.com/connectors/sap.html#how-to-connect-to-sap-on-premise-on-workato","url_without_variables":"https://docs.workato.com/connectors/sap.html#how-to-connect-to-sap-on-premise-on-workato","hierarchy_camel":[{"lvl0":"SAP On-premise","lvl1":"How to connect to SAP On-premise on Workato","lvl2":null,"lvl3":null,"lvl4":null,"lvl5":null,"lvl6":null}],"hierarchy_radio_camel":{"lvl3":null,"lvl2":null,"lvl1":"How to connect to SAP On-premise on Workato","lvl0":null},"content_camel":null,"lang":"en-US","url_without_anchor":"https://docs.workato.com/connectors/sap.html","no_variables":true,"objectID":"c32dba940c9e2f7dc52154275d69f461f5c1d8b1","_highlightResult":{"hierarchy":{"lvl0":{"value":"SAP <span class=\"algolia-docsearch-suggestion--highlight\">On</span>-<span class=\"algolia-docsearch-suggestion--highlight\">premise</span>","matchLevel":"full","fullyHighlighted":false,"matchedWords":["on","premise"]},"lvl1":{"value":"How to connect to SAP <span class=\"algolia-docsearch-suggestion--highlight\">On</span>-<span class=\"algolia-docsearch-suggestion--highlight\">premise</span> <span class=\"algolia-docsearch-suggestion--highlight\">on</span> Workato","matchLevel":"full","fullyHighlighted":false,"matchedWords":["on","premise"]}},"hierarchy_camel":[{"lvl0":{"value":"SAP <span class=\"algolia-docsearch-suggestion--highlight\">On</span>-<span class=\"algolia-docsearch-suggestion--highlight\">premise</span>","matchLevel":"full","fullyHighlighted":false,"matchedWords":["on","premise"]},"lvl1":{"value":"How to connect to SAP <span class=\"algolia-docsearch-suggestion--highlight\">On</span>-<span class=\"algolia-docsearch-suggestion--highlight\">premise</span> <span class=\"algolia-docsearch-suggestion--highlight\">on</span> Workato","matchLevel":"full","fullyHighlighted":false,"matchedWords":["on","premise"]}}]}},
+{"anchor":"sap-on-premise-connector-update","content":null,"hierarchy":{"lvl0":null,"lvl1":"SAP On-premise Connector Update","lvl2":null,"lvl3":null,"lvl4":null,"lvl5":null,"lvl6":null},"hierarchy_radio":{"lvl3":null,"lvl2":null,"lvl1":"SAP On-premise Connector Update","lvl0":null},"type":"lvl1","tags":[],"weight":{"page_rank":0,"level":90,"position":134},"url":"https://docs.workato.com/product-updates.html#sap-on-premise-connector-update","url_without_variables":"https://docs.workato.com/product-updates.html#sap-on-premise-connector-update","hierarchy_camel":[{"lvl0":null,"lvl1":"SAP On-premise Connector Update","lvl2":null,"lvl3":null,"lvl4":null,"lvl5":null,"lvl6":null}],"hierarchy_radio_camel":{"lvl3":null,"lvl2":null,"lvl1":"SAP On-premise Connector Update","lvl0":null},"content_camel":null,"lang":"en-US","url_without_anchor":"https://docs.workato.com/product-updates.html","no_variables":true,"objectID":"ad5c7d05823d9221cef79c78dd850034bd2dc143","_highlightResult":{"hierarchy":{"lvl1":{"value":"SAP <span class=\"algolia-docsearch-suggestion--highlight\">On</span>-<span class=\"algolia-docsearch-suggestion--highlight\">premise</span> Connector Update","matchLevel":"full","fullyHighlighted":false,"matchedWords":["on","premise"]}},"hierarchy_camel":[{"lvl1":{"value":"SAP <span class=\"algolia-docsearch-suggestion--highlight\">On</span>-<span class=\"algolia-docsearch-suggestion--highlight\">premise</span> Connector Update","matchLevel":"full","fullyHighlighted":false,"matchedWords":["on","premise"]}}]}},
+{"anchor":"configure-idoc-and-rfc-in-sap","content":null,"hierarchy":{"lvl0":"SAP On-premise","lvl1":"How to connect to SAP On-premise on Workato","lvl2":"Configure IDoc and RFC in SAP","lvl3":null,"lvl4":null,"lvl5":null,"lvl6":null},"hierarchy_radio":{"lvl3":null,"lvl2":"Configure IDoc and RFC in SAP","lvl1":null,"lvl0":null},"type":"lvl2","tags":[],"weight":{"page_rank":0,"level":80,"position":21},"url":"https://docs.workato.com/connectors/sap.html#configure-idoc-and-rfc-in-sap","url_without_variables":"https://docs.workato.com/connectors/sap.html#configure-idoc-and-rfc-in-sap","hierarchy_camel":[{"lvl0":"SAP On-premise","lvl1":"How to connect to SAP On-premise on Workato","lvl2":"Configure IDoc and RFC in SAP","lvl3":null,"lvl4":null,"lvl5":null,"lvl6":null}],"hierarchy_radio_camel":{"lvl3":null,"lvl2":"Configure IDoc and RFC in SAP","lvl1":null,"lvl0":null},"content_camel":null,"lang":"en-US","url_without_anchor":"https://docs.workato.com/connectors/sap.html","no_variables":true,"objectID":"d2f77f46275064c7aafc0749c06fbf308b794828","_highlightResult":{"hierarchy":{"lvl0":{"value":"SAP <span class=\"algolia-docsearch-suggestion--highlight\">On</span>-<span class=\"algolia-docsearch-suggestion--highlight\">premise</span>","matchLevel":"full","fullyHighlighted":false,"matchedWords":["on","premise"]},"lvl1":{"value":"How to connect to SAP <span class=\"algolia-docsearch-suggestion--highlight\">On</span>-<span class=\"algolia-docsearch-suggestion--highlight\">premise</span> <span class=\"algolia-docsearch-suggestion--highlight\">on</span> Workato","matchLevel":"full","fullyHighlighted":false,"matchedWords":["on","premise"]},"lvl2":{"value":"Configure IDoc and RFC in SAP","matchLevel":"none","matchedWords":[]}},"hierarchy_camel":[{"lvl0":{"value":"SAP <span class=\"algolia-docsearch-suggestion--highlight\">On</span>-<span class=\"algolia-docsearch-suggestion--highlight\">premise</span>","matchLevel":"full","fullyHighlighted":false,"matchedWords":["on","premise"]},"lvl1":{"value":"How to connect to SAP <span class=\"algolia-docsearch-suggestion--highlight\">On</span>-<span class=\"algolia-docsearch-suggestion--highlight\">premise</span> <span class=\"algolia-docsearch-suggestion--highlight\">on</span> Workato","matchLevel":"full","fullyHighlighted":false,"matchedWords":["on","premise"]},"lvl2":{"value":"Configure IDoc and RFC in SAP","matchLevel":"none","matchedWords":[]}}]}}]
+,"nbHits":215,"page":0,"nbPages":43,"hitsPerPage":5,"exhaustiveNbHits":true,"query":"on premise","params":"query=on%20premise&hitsPerPage=5&facetFilters=%5B%22lang%3Aen-US%22%5D","index":"doc_index_1","processingTimeMS":1}]}
