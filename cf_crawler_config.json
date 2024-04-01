@@ -1,0 +1,103 @@
+{
+  "index_name": "doc_index_cf_test",
+  "start_urls": [
+    {
+      "url": "https://docs4.workato.com",
+      "page_rank": 10
+    },
+    {
+      "url": "https://docs4.workato.com/oem",
+      "page_rank": 40
+    },
+    {
+      "url": "https://docs4.workato.com/formulas",
+      "page_rank": 60
+    },
+    {
+      "url": "https://docs4.workato.com/on-prem",
+      "page_rank": 60
+    },
+    {
+      "url": "https://docs4.workato.com/developing-connectors/sdk.html",
+      "page_rank": 60
+    }
+  ],
+  "sitemap_urls": [
+    "https://docs4.workato.com/sitemap.xml"
+  ],
+  "stop_urls": [
+    "https://docs4.workato.com/connectors/standard-connector-template.html$",
+    "https://docs4.workato.com/recipes/testing-recipes.html$",
+    "https://docs4.workato.com/recipe-editor-update/overview.html$",
+    "https://docs4.workato.com/product-updates.html$",
+    "https://docs4.workato.com/$",
+    "https://docs4.workato.com/index.html$",
+    "https://docs4.workato.com/security$",
+    "https://docs4.workato.com/workato-api$",
+    "https://docs4.workato.com/custom-oauth-profiles/custom-oauth-profiles$",
+    "https://docs4.workato.com/developing-connectors/sdk$",
+    "https://docs4.workato.com/developing-connectors/community/community$",
+    "https://docs4.workato.com/developing-connectors$",
+    "https://docs4.workato.com/api-management$",
+    "https://docs4.workato.com/workbot-for-workplace/workbot$",
+    "https://docs4.workato.com/workbot-for-teams/workbot$",
+    "https://docs4.workato.com/workbot/workbot$",
+    "https://docs4.workato.com/features$",
+    "https://docs4.workato.com/on-prem$",
+    "https://docs4.workato.com/recipe-development-lifecycle$",
+    "https://docs4.workato.com/workflow$",
+    "https://docs4.workato.com/api-management$",
+    "https://docs4.workato.com/workbot-for-teams/workbot$",
+    "https://docs4.workato.com/user-accounts-and-teams/team-collaboration$",
+    "https://docs4.workato.com/formulas/complex-data-types.html$",
+    "https://docs4.workato.com/scheduled-downtime-jan-2022.html$",
+    "https://docs4.workato.com/ja/"
+  ],
+  "selectors": {
+    "lvl0": ".Page h1",
+    "lvl1": ".Page h2",
+    "lvl2": ".Page h3",
+    "text": ".Page p"
+  },
+  "min_indexed_level": 1,
+  "only_content_level": true,
+  "selectors_exclude": [
+    "footer",
+    ".prev",
+    ".next"
+  ],
+  "strip_chars": " ,;#",
+  "scrape_start_urls": false,
+  "custom_settings": {
+    "attributesToRetrieve": [
+      "*"
+    ],
+    "attributesForFaceting": [
+      "lang"
+    ],
+    "synonyms": [
+      [
+        "api platform",
+        "api management"
+      ],
+      [
+        "opa",
+        "on prem",
+        "on premise"
+      ],
+      [
+        "redirect url",
+        "callback url"
+      ],
+      [
+        "JSON web token",
+        "JWT"
+      ],
+      [
+        "single-sign on",
+        "sso"
+      ]
+    ]
+  },
+  "nb_hits": 22680
+}

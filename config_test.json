@@ -1,24 +1,8 @@
 {
-  "index_name": "doc_index",
+  "index_name": "doc_index_1",
   "start_urls": [
     {
-      "url": "https://docs.workato.com",
-      "page_rank": 10
-    },
-    {
-      "url": "https://docs.workato.com/oem",
-      "page_rank": 40
-    },
-    {
-      "url": "https://docs.workato.com/formulas",
-      "page_rank": 60
-    },
-    {
-      "url": "https://docs.workato.com/on-prem",
-      "page_rank": 60
-    },
-    {
-      "url": "https://docs.workato.com/developing-connectors/sdk.html",
+      "url": "https://docs.workato.com/developing-connectors",
       "page_rank": 60
     }
   ],
@@ -27,7 +11,6 @@
   ],
   "stop_urls": [
     "https://docs.workato.com/connectors/standard-connector-template.html$",
-    "https://docs.workato.com/recipes/testing-recipes.html$",
     "https://docs.workato.com/recipe-editor-update/overview.html$",
     "https://docs.workato.com/product-updates.html$",
     "https://docs.workato.com/$",
@@ -50,7 +33,6 @@
     "https://docs.workato.com/workbot-for-teams/workbot$",
     "https://docs.workato.com/user-accounts-and-teams/team-collaboration$",
     "https://docs.workato.com/formulas/complex-data-types.html$",
-    "https://docs.workato.com/scheduled-downtime-jan-2022.html$",
     "https://docs.workato.com/ja/"
   ],
   "selectors": {
@@ -99,5 +81,5 @@
       ]
     ]
   },
-  "nb_hits": 17840
+  "nb_hits": 2581
 }
